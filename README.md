@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SREELEKSHMY-S-L
 - 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently working as Engineer-Trainee at Travancore Analytics
 
 
 <!---
